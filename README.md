@@ -1,6 +1,6 @@
 # React Vite TailwindCSS Starter Template
 
-This project provides a starter template for building fast and modern web applications using React, Vite, TailwindCSS, and Wedges. It's designed to offer developers a quick way to jumpstart their project with a powerful and efficient development stack.
+This project provides a starter template for building fast and modern web applications using React, Vite, TailwindCSS, and Wedges. It's designed to offer developers a quick way to jumpstart their projects with a powerful and efficient development stack.
 
 ## Features
 
@@ -10,7 +10,7 @@ This project provides a starter template for building fast and modern web applic
 
 - **TailwindCSS**: A utility-first CSS framework packed with classes like `flex`, `pt-4`, `text-center`, and `rotate-90` that can be composed to build any design, directly in your markup. Tailwind's highly customizable nature allows you to design your site with the speed of a cheetah.
 
-- **Wedges**: While not as commonly known, Wedges is a tool/library/framework that complements this stack by providing [specific functionality or features that Wedges offers, tailored to the context of this template].
+- **Wedges**: While not as commonly known, [Wedges](https://www.lemonsqueezy.com/wedges) is an open-source collection of UI components for React that complements this stack by providing [specific functionality or features that Wedges offers, tailored to the context of this template].
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ To get started with this template, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/kantbtrue/react-vite-tailwind-wedges-starting-template.git
 
    ```
 
@@ -68,6 +68,6 @@ Distributed under the MIT License. See LICENSE for more information.
 - React Community
 - Vite Contributors
 - TailwindCSS Team
-- Wedges team
+- [Wedges team](https://www.lemonsqueezy.com/wedges)
 
 Start building your next great project today with this React Vite TailwindCSS starter template!
